@@ -1,0 +1,45 @@
+body{
+  background-color: red;
+}
+
+body{
+  background-image:url("plaatjes/07.jpg");
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+}
+
+div {
+  background-color: lightgrey
+  width: 300px;
+  border: 15px solid black;
+}
+<body>
+<h2>Imran Khan</h2>
+<div>Imran Ahmed Khan Niazi werd geboren in Lahore, Pakistan op 5 oktober 1952 als zoon van Ikramullah Khan Niazi Shermankhel en Shaukat Khanum (Burki-clan). Hij was de enige zoon van het gezin en groeide op tussen vier sterke zussen. Zijn educatieve reis begon op Aitchison College en de Cathedral School in Lahore, waar hij de middelbare school afrondde; en ging toen naar de Royal Grammar School, Worcester, voordat hij zijn formele opleiding afrondde met een bachelordiploma in economie, politieke wetenschappen en geschiedenis van Keble College, Oxford. Tijdens zijn studie aan de universiteit was Imran Khan in 1974 ook de aanvoerder van het cricketteam van de universiteit van Oxford.</div>
+</body>
+
+
+
+body h1,h2,h3,h4,h5{
+color:white
+font-size:26px;
+}
+p {
+font-size:18px
+}
+h1 {
+text-align:center;
+}
+table{
+border-collapse:collapse;
+}
+table,th,td{
+border:1px solid black;
+}
+h2,h3,h4{
+color:rbg(0,150,0)
+text-align:center;
+border:1px solid black;
+border-radius: 10px 10px 10px 10px
+border-style:double;
+}
